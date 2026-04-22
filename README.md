@@ -9,8 +9,8 @@ American singer-songwriter
 ## Skills & Technologies
 
 - vocals
-- guitar 
-- production 
+- guitar
+- production
 
 ## Connect with Me
 
