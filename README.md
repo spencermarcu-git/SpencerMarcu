@@ -13,6 +13,7 @@
 - 🎤 Singer-songwriter passionate about authentic storytelling through music
 - 🎸 Guitarist with a love for a wide range of styles and genres
 - 🎛️ Producer who enjoys shaping sound from the ground up
+- ✍️ Songwriter — weaving heartfelt lyrics with compelling melodies
 - 🌎 Based in the United States
 
 ---
@@ -24,6 +25,15 @@
 | 🎤 Vocals | Lead vocals, harmonies, and vocal production |
 | 🎸 Guitar | Acoustic & electric — rhythm and lead |
 | 🎛️ Production | Songwriting, arranging, recording, and mixing |
+| ✍️ Songwriting | Lyrics, melody, and composition |
+
+---
+
+## 📂 What You'll Find Here
+
+- Original music projects and demos
+- Production experiments and samples
+- Collaborations and open-source creative work
 
 ---
 
