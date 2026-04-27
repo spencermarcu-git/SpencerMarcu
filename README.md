@@ -1,28 +1,31 @@
+![Copilot code review](https://github.com/SpencerMarcu-Spencer-Marcu/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
+
+![Copilot cloud agent](https://github.com/SpencerMarcu-Spencer-Marcu/SpencerMarcu/actions/workflows/copilot-swe-agent/copilot/badge.svg)
+
 # Hi, I'm Spencer Marcu 👋🎸
 
-> American singer-songwriter crafting original music through vocals, guitar, and production.
+> American singer-songwriter crafting music from the heart.
 
 ---
 
 ## 🎵 About Me
 
-I'm a passionate singer-songwriter based in the United States. I write, record, and produce original music — blending heartfelt lyrics with compelling melodies.
-
-- 🎤 **Vocalist** — Lead and harmony vocals across multiple genres
-- 🎸 **Guitarist** — Acoustic and electric, fingerpicking to strumming
-- 🎛️ **Producer** — From home studio to polished recordings
-- ✍️ **Songwriter** — Storytelling through music
+- 🎤 Singer-songwriter passionate about authentic storytelling through music
+- 🎸 Guitarist with a love for a wide range of styles and genres
+- 🎛️ Producer who enjoys shaping sound from the ground up
+- ✍️ Songwriter — weaving heartfelt lyrics with compelling melodies
+- 🌎 Based in the United States
 
 ---
 
 ## 🛠️ Skills & Craft
 
-| Area | Details |
-|------|---------|
-| 🎤 Vocals | Lead vocals, harmonies, vocal arrangement |
-| 🎸 Guitar | Acoustic, electric, fingerstyle |
-| 🎛️ Production | Recording, mixing, arrangement |
-| ✍️ Songwriting | Lyrics, melody, composition |
+| Skill | Description |
+|-------|-------------|
+| 🎤 Vocals | Lead vocals, harmonies, and vocal production |
+| 🎸 Guitar | Acoustic & electric — rhythm and lead |
+| 🎛️ Production | Songwriting, arranging, recording, and mixing |
+| ✍️ Songwriting | Lyrics, melody, and composition |
 
 ---
 
@@ -34,9 +37,9 @@ I'm a passionate singer-songwriter based in the United States. I write, record, 
 
 ---
 
-## 🤝 Connect with Me
+## 📬 Connect with Me
 
-- 🐙 GitHub: [@SpencerMarcu](https://github.com/SpencerMarcu)
+- 🐙 GitHub: [![GitHub followers](https://img.shields.io/github/followers/SpencerMarcu?label=Follow&style=social)](https://github.com/SpencerMarcu)
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
