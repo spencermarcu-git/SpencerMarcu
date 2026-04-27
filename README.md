@@ -1,22 +1,33 @@
-# Spencer Marcu
+# Hi, I'm Spencer Marcu 👋🎸
 
-@SpencerMarcu
+> American singer-songwriter crafting music from the heart.
 
-## About Me
+---
 
-American singer-songwriter
+## 🎵 About Me
 
-## Skills & Technologies
+- 🎤 Singer-songwriter passionate about authentic storytelling through music
+- 🎸 Guitarist with a love for a wide range of styles and genres
+- 🎛️ Producer who enjoys shaping sound from the ground up
+- 🌎 Based in the United States
 
-- vocals
-- guitar
-- production
+---
 
-## Connect with Me
+## 🛠️ Skills & Craft
 
-Find me on GitHub: @SpencerMarcu
+| Skill | Description |
+|-------|-------------|
+| 🎤 Vocals | Lead vocals, harmonies, and vocal production |
+| 🎸 Guitar | Acoustic & electric — rhythm and lead |
+| 🎛️ Production | Songwriting, arranging, recording, and mixing |
 
-Feel free to explore my repositories and connect with me for collaboration opportunities!
+---
+
+## 📬 Connect with Me
+
+- 🐙 GitHub: [@SpencerMarcu](https://github.com/SpencerMarcu)
+
+Feel free to explore my repositories and reach out for collaboration opportunities!
 
 ---
 
