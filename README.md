@@ -1,6 +1,6 @@
-![Copilot code review](https://github.com/SpencerMarcu-Spencer-Marcu/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
+![Copilot code review](https://github.com/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
 
-![Copilot cloud agent](https://github.com/SpencerMarcu-Spencer-Marcu/SpencerMarcu/actions/workflows/copilot-swe-agent/copilot/badge.svg)
+![Copilot cloud agent](https://github.com/SpencerMarcu/actions/workflows/copilot-swe-agent/copilot/badge.svg)
 
 <div align="center">
 
@@ -22,6 +22,7 @@
 - 🎸 Guitarist with a love for a wide range of styles and genres
 - 🎛️ Producer who enjoys shaping sound from the ground up
 - ✍️ Lyricist focused on honest, emotionally resonant writing
+- ✍️ Songwriter — weaving heartfelt lyrics with compelling melodies
 - 🌎 Based in the United States
 
 ---
@@ -54,6 +55,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+| ✍️ Songwriting | Lyrics, melody, and composition |
+
+---
+
+## 📂 What You'll Find Here
+
+- Original music projects and demos
+- Production experiments and samples
+- Collaborations and open-source creative work
 
 ---
 
