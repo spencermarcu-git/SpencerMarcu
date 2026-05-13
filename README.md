@@ -1,4 +1,4 @@
-![904aa3f2fc28e80cbfe882cd5591a316819a0b7d](https://github.com/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
+![@spencermarcu](https://github.com/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
 
 ![Copilot cloud agent](https://github.com/SpencerMarcu/actions/workflows/copilot-swe-agent/copilot/badge.svg)
 
