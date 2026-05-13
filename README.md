@@ -69,7 +69,7 @@
 
 ## 📬 Connect with Me
 
-- 🐙 GitHub: [github.com/SpencerMarcu](https://github.com/SpencerMarcu)
+- 🐙 GitHub: [github.SpencerMarcu.com/@SpencerMarcu](https://github.com/SpencerMarcu)
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
