@@ -1,0 +1,27 @@
+name: Report an issue
+description: Report a problem or request a change for this repository.
+title: "[Issue]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for opening an issue.
+
+        Please **don’t paste GitHub email notifications** (for example “Sent from my iPad…”) — describe the problem in your own words instead.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What’s the issue or request?
+      placeholder: Briefly describe what you’re seeing and what you want to change.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Add any helpful context, links, or screenshots.
+      placeholder: Steps to reproduce, expected vs actual behavior, related links, etc.
+    validations:
+      required: false
+
