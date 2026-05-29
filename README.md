@@ -21,7 +21,6 @@
 - 🎤 Singer-songwriter passionate about authentic storytelling through music
 - 🎸 Guitarist with a love for a wide range of styles and genres
 - 🎛️ Producer who enjoys shaping sound from the ground up
-- ✍️ Lyricist focused on honest, emotionally resonant writing
 - ✍️ Songwriter — weaving heartfelt lyrics with compelling melodies
 - 🌎 Based in the United States
 
@@ -55,7 +54,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerMarcu&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-| ✍️ Songwriting | Lyrics, melody, and composition |
 
 ---
 
