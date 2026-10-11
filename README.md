@@ -1,4 +1,4 @@
-![Copilot code review](https://github.com/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
+![@spencermarcu](https://github.com/SpencerMarcu/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)
 
 ![Copilot cloud agent](https://github.com/SpencerMarcu/actions/workflows/copilot-swe-agent/copilot/badge.svg)
 
@@ -18,7 +18,7 @@
 
 ## 🎵 About Me
 
-- 🎤 Singer-songwriter passionate about authentic storytelling through music
+- 🎤 American Singer-songwriter passionate about authentic storytelling through music
 - 🎸 Guitarist with a love for a wide range of styles and genres
 - 🎛️ Producer who enjoys shaping sound from the ground up
 - ✍️ Lyricist focused on honest, emotionally resonant writing
@@ -69,7 +69,7 @@
 
 ## 📬 Connect with Me
 
-- 🐙 GitHub: [github.com/SpencerMarcu](https://github.com/SpencerMarcu)
+- 🐙 GitHub: [github.SpencerMarcu.com/@SpencerMarcu](https://github.com/SpencerMarcu)
 
 Feel free to explore my repositories and reach out for collaboration opportunities!
 
